@@ -1,1 +1,2 @@
-print("este es un script de prueba")
+print("este es un script de prueba 2")
+
